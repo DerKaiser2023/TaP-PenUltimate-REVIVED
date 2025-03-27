@@ -1,2 +1,2 @@
 # TaP-PenUltimate-REVIVED
-the flaming garbage modpack revived from its fucking grave from 2019
+the flaming garbage tyrants and plebeians modpack revived from its fucking grave from 2019
