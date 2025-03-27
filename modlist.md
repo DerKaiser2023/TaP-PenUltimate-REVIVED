@@ -40,6 +40,8 @@ MCHeli Overdrive
 
 MekanismAll
 
+Music Mod
+
 NotEnoughItems
 
 OpenModularTurrets
