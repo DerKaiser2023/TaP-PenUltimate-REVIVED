@@ -14,7 +14,7 @@ CustomMainMenu
 
 CustomMobSpawner
 
-CustomNPCs+
+CustomNPCs+ -will be added in v1.3
 
 Ding
 
@@ -26,7 +26,7 @@ FlansMod LabJac Edition Final Solution
 
 HBM NTM (JamesH fork)
 
-xradar (ClowderMod Bullshittery Edition)
+xradar (ClowderMod Bullshittery Edition) -in development, updated xradar is in use for now
 
 Itlt
 
@@ -36,17 +36,17 @@ MalisisCore
 
 MalisisDoors
 
-MCHeli Overdrive
+MCHeli Overdrive -will be added possibily in v1.3
 
 MekanismAll
 
-Music Mod
+Music Mod -will add to modpack eventually, maybe in v1.3
 
 NotEnoughItems
 
 OpenModularTurrets
 
-Real First Person Render
+Real First Person Render -debating on if i should remove this
 
 SereneSeasons
 
