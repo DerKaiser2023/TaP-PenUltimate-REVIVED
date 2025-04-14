@@ -36,7 +36,7 @@ FlansMod LabJac Edition Final Solution
 
 HBM NTM (JamesH fork)
 
-xradar (ClowderMod Bullshittery Edition) -in development, updated xradar is in use for now
+(xenofactions cursed edition) -in development, updated xradar is in use for now
 
 Itlt
 
@@ -63,6 +63,8 @@ OpenModularTurrets
 OpenComputers
 
 Real First Person Render -debating on if i should remove this
+
+realisticdamge -(95% complete) will add in v1.3 
 
 SereneSeasons
 
