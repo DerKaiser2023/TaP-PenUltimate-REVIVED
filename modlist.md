@@ -64,7 +64,7 @@ OpenComputers
 
 Real First Person Render -debating on if i should remove this
 
-realisticdamge -(95% complete) will add in v1.3 
+realisticdamge -(100% complete) will add in v1.3 
 
 SereneSeasons
 
