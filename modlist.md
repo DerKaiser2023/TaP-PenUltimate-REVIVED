@@ -32,11 +32,11 @@ FastCraft
 
 FlenixRoads
 
-FlansMod LabJac Edition Final Solution
+FlansMod LabJac Edition Final Solution (changing to flans mod jimmy edition in 1.3)
 
 HBM NTM (JamesH fork)
 
-(xenofactions cursed edition) -in development, updated xradar is in use for now
+(xenofactions caged jimmy edition) -in development, updated xradar is in use for now
 
 Itlt
 
@@ -46,11 +46,11 @@ MalisisCore
 
 MalisisDoors
 
-MCHeli Overdrive -will be added possibily in v1.3, main mcheli in use for now
+MCHeli Overdrive -modifed version of mcheli-o will be added in v1.3, main mcheli in use for now
 
 MekanismAll
 
-Music Mod -will add to modpack eventually, maybe in v1.3
+Music Mod -will add to modpack in v1.3
 
 LandOfSignals
 
