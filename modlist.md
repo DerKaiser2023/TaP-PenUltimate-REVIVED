@@ -34,7 +34,7 @@ FlenixRoads
 
 FlansMod LabJac Edition Final Solution (changing to flans mod jimmy edition in 1.3)
 
-HBM NTM (JamesH fork)
+NTM: Space fucked edition (fork of JamesH2 HBM)
 
 (xenofactions caged jimmy edition) -in development, updated xradar is in use for now
 
@@ -62,9 +62,9 @@ OpenModularTurrets
 
 OpenComputers
 
-Real First Person Render -debating on if i should remove this
+Real First Person Render
 
-realisticdamge -(100% complete) will add in v1.3 
+realismoverhaul (somewhat complete) 
 
 SereneSeasons
 
@@ -81,3 +81,5 @@ UniversalModCore
 WorldEdit Forge
 
 zFlans npc mk2
+
+TaP Utilities (somewhat complete)
