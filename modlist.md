@@ -80,4 +80,4 @@ WorldEdit Forge
 
 zFlans npc mk2
 
-TaP Utilities (somewhat complete)
+TaP Utilities (somewhat complete, adding in v1.4)
