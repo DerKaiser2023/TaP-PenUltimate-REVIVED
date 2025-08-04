@@ -22,21 +22,19 @@ Computertronics
 
 CraftPresence
 
-CustomNPCs+ -will be added in v1.3, outdated customnpcs from oct2017 in use for now
+CustomNPCs+ -will be added in v1.4, outdated customnpcs from oct2017 in use for now
 
 Ding
 
 DrZharks MoCreatures Mod
 
-FastCraft
-
 FlenixRoads
 
-FlansMod LabJac Edition Final Solution (changing to flans mod jimmy edition in 1.3)
+FlansMod LabJac Edition Final Solution (changing to flans mod jimmy edition in 1.4)
 
-NTM: Space fucked edition (fork of JamesH2 HBM)
+Ragex‘s Nuclear Tech
 
-(xenofactions caged jimmy edition) -in development, updated xradar is in use for now
+xenofactions
 
 Itlt
 
@@ -46,7 +44,7 @@ MalisisCore
 
 MalisisDoors
 
-MCHeli Overdrive -modifed version of mcheli-o will be added in v1.3, main mcheli in use for now
+MCHeli Overdrive
 
 MekanismAll
 
